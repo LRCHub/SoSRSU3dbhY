@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Casual (Acoustic)",
+  "base_artist": "Jesse Barrera, Jeff Bernat , & Johnny Stimson",
+  "createdAt": "2026-03-23T12:06:33.830301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Casual - Acoustic",
+      "artist": "Jesse Barrera, Jeff Bernat, Johnny Stimson",
+      "has_synced": true,
+      "path": "select/01_Casual_-_Acoustic_Jesse_Barrera,_Jeff_Bernat,_Johnny_Stimson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She’s Casual - Acoustic",
+      "artist": "The Hunna",
+      "has_synced": false,
+      "path": "select/02_She’s_Casual_-_Acoustic_The_Hunna.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She’s Casual (acoustic)",
+      "artist": "The Hunna",
+      "has_synced": false,
+      "path": "select/03_She’s_Casual_(acoustic)_The_Hunna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Casual - Acoustic",
+      "artist": "Jesse Barrera",
+      "has_synced": true,
+      "path": "select/04_Casual_-_Acoustic_Jesse_Barrera.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Casual (Acoustic)",
+      "artist": "Jesse Barrera • Jeff Bernat  • Johnny Stimson",
+      "has_synced": true,
+      "path": "select/05_Casual_(Acoustic)_Jesse_Barrera_•_Jeff_Bernat_•_Johnny_Stimson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She's Casual  (Acoustic)",
+      "artist": "The Hunna",
+      "has_synced": false,
+      "path": "select/06_She's_Casual_(Acoustic)_The_Hunna.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Casual (Acoustic)",
+      "artist": "Alex Adair",
+      "has_synced": false,
+      "path": "select/07_Casual_(Acoustic)_Alex_Adair.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Casual - Acoustic",
+      "artist": "Johnny Stimson",
+      "has_synced": true,
+      "path": "select/08_Casual_-_Acoustic_Johnny_Stimson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Casual (Acoustic)",
+      "artist": "Jesse Barrera",
+      "has_synced": true,
+      "path": "select/09_Casual_(Acoustic)_Jesse_Barrera.lrc"
+    }
+  ]
+}
