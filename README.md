@@ -1,0 +1,75 @@
+# Jesse Barrera, Jeff Bernat , & Johnny Stimson – Casual (Acoustic)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.96] We can take the long way
+[00:21.57] We'll get there even if it takes all night
+[00:25.25] We'll talk until the morning
+[00:28.86] Don't tell me that you're fine if you're not fine
+[00:53.36] 
+[00:32.50] And if it's only pleasure that you're seeking
+[00:35.78] Then I'll be penciling you in for the weekend
+[00:39.83] Forget about the white noise
+[00:43.40] It's chocolate and pajamas 'til the whole world fades
+[01:09.90] 
+[00:47.37] Just right
+[00:49.35] Yes, please
+[00:50.82] We can sink into the sofa for the whole week
+[00:54.80] Just right
+[00:56.75] Easy
+[00:58.75] 
+[01:00.31] If we could just break down, break down these walls
+[01:08.28] Over some take-out
+[01:12.01] Don't you worry 'bout nothing at all
+[01:15.36] I can get to know you
+[01:17.28] We can take it slow
+[01:18.90] Savor every moment
+[01:20.77] Keep it on the low
+[01:22.20] Baby, just let go
+[01:26.63] And we can keep this whole thing casual
+[01:37.02] Yeah
+[01:39.02] 
+[01:44.11] Yeah, check
+[01:46.08] We'll take it back to the beginning when we first met
+[01:49.90] I find if funny how you hit me with the silence
+[01:53.65] Lady, what's the deal?
+[01:54.85] I'm diggin' your sex appeal
+[01:56.55] But now when I'm with you I, I feel
+[02:14.05] 
+[02:01.35] Just right
+[02:03.08] Yes, please
+[02:04.22] Girl, we can kick it at the crib for like the whole week
+[02:08.63] Just right
+[02:10.63] At ease
+[02:11.88] I'll give you what you need
+[02:25.38] 
+[02:14.23] If we could just break down, break down these walls
+[02:21.60] Over some take-out
+[02:25.93] Don't you worry 'bout nothing at all
+[02:29.13] I can get to know you
+[02:30.98] We can take it slow
+[02:32.67] Savor every moment
+[02:34.35] And keep it on the low
+[02:36.19] Baby, just let go
+[02:40.33] Girl, we can keep this whole thing
+[02:57.33] 
+[02:44.27] Relaxation 'til we take it to the limit
+[02:48.26] Meditation 'til we let it all go ('til we let it all go)
+[02:51.65] Lazy days and hazy nights
+[02:53.33] And new beginnings
+[02:55.45] If you love me, won't you say so
+[02:58.04] Girl, won't you say so
+[03:09.04] 
+[02:59.00] Relaxation 'til we take it to the limit
+[03:02.96] Meditation 'til we let it all go
+[03:06.67] Lazy days and hazy nights
+[03:08.11] My head is spinning (my head is spinning)
+[03:10.28] Baby, we can keep it casual (girl, we could keep it casual)
+[03:39.78] 
+[03:13.85] Relaxation 'til we take it to the limit
+[03:17.41] Meditation 'til we let it all go
+[03:21.33] Lazy days and hazy nights
+[03:22.91] And new beginnings
+[03:25.07] Baby, we can keep it casual
+```
